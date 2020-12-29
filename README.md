@@ -1,3 +1,8 @@
+# Reason for the fork
+To study parameters in the fully automatic version where only the input mp3 is required.
+
+
+
 # osumapper
 
 An automatic beatmap generator using Tensorflow / Deep Learning.
